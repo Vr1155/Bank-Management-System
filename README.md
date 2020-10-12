@@ -1,6 +1,6 @@
 # Bank-Management-System
 
-##Important points to note before running this project: 
+## Important points to note before running this project: 
 
 This repository contains all files need to run the Bank Management System project. 
 This project was made with help of Java and swing and awt libraries where used for creating UI for this project.
